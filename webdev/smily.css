@@ -1,0 +1,53 @@
+#face{
+    height:400px;
+    width:400px;
+    background-color: rgb(188, 188, 53);
+    border-radius: 50%;
+}
+#mouth{
+    height:100px;
+    width:200px;
+    background-color: rgb(129, 35, 35);
+    border-radius:0px 0px 50px 50px;
+    position:absolute;
+    left:100px;
+    top:250px;
+}
+#left{
+    height:50px;
+    width:50px;
+    background-color:black;
+    border-radius:50%;
+    position:absolute;
+    left:100px;
+    top:100px;
+    display: inline-block;
+}
+#right{
+    height:50px;
+    width:50px;
+    background-color:black;
+    border-radius:50%;
+    position:absolute;
+    left:250px;
+    top:100px;
+     display: inline-block;
+}
+#teeth{
+    height:50px;
+    width:40px;
+    background-color:white;
+    position:absolute;
+    top:251px;
+    left:110px;
+    border-radius: 0px 0px 50px 50px;
+}
+#teeth2{
+    height:50px;
+    width:40px;
+    background-color:white;
+    position:absolute;
+    top:251px;
+    left:250px;
+    border-radius: 0px 0px 50px 50px;
+}

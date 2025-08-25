@@ -1,0 +1,15 @@
+/* #box{
+    height:600px;
+    width:300px;
+    background-color: black;
+    display:flex;
+    flex-direction: column;
+}
+
+div{
+    height:200px;
+    width:200px;
+    background-color: greenyellow;
+    text-align: center;
+    border:2px solid black;
+} */

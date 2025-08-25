@@ -1,0 +1,27 @@
+div{
+    height:100px;
+    width:100px;
+    background-color: green;
+    border:4px solid black;
+    margin:20px;
+     display: inline-block;
+}
+
+#static{
+    height:100px;
+    width:100px;
+    background-color: yellow;
+    border:4px solid black;
+    margin:20px;
+   
+}
+#relative{
+    /* height:100px;
+    width:100px; */
+    background-color: rgba(20, 181, 190, 0.49);
+    /* border:4px solid black; */
+    /* margin:20px; */
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
